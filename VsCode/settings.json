@@ -1,0 +1,11 @@
+{
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "editor.lineHeight": 28,
+    "editor.fontSize": 14,
+    "editor.fontWeight": "300",
+    "editor.lineHighlightBackground": "#ff0000",
+    "editor.renderLineHighlight": "line",
+    "editor.fontFamily": "\"Fira Code\", Menlo, \"DejaVu Sans Mono\", Consolas, \"Lucida Console\", monospace",
+    "workbench.colorTheme": "Primal"
+}
